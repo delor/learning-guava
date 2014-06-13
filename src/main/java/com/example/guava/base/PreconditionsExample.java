@@ -3,7 +3,7 @@ package com.example.guava.base;
 import static com.google.common.base.Preconditions.*;
 
 public class PreconditionsExample {
-    
+
     private final int[] values;
 
     public PreconditionsExample(final String numbersString) {
